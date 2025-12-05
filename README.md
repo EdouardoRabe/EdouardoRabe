@@ -48,11 +48,11 @@ const developpeur = {
 
 #### Backend & Systèmes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /> <b>Java</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> <b>Python</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /> <b>C</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /> <b>C++</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /> <b>C#</b>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /> 
 </p>
 
 </td>
@@ -60,10 +60,10 @@ const developpeur = {
 
 #### Web & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /> <b>JavaScript</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <b>Node.js</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /> <b>PHP</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Basic" /> <b>Visual Basic</b>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Basic" /> 
 </p>
 
 </td>
@@ -80,10 +80,10 @@ const developpeur = {
 
 #### Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /> <b>Spring Boot</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring MVC" /> <b>Spring MVC</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> <b>Django</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> <b>Laravel</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring MVC" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> <br/><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="Flight PHP" /> <b>Flight PHP</b>
 </p>
 
@@ -92,8 +92,8 @@ const developpeur = {
 
 #### Frontend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <b>React</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> <b>Vue.js</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" height="40" alt="Ionic" />
 
 </p>
@@ -103,10 +103,10 @@ const developpeur = {
 
 #### Bases de Données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /> <b>PostgreSQL</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /> <b>MySQL</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /> <b>SQLite</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /> <b>MongoDB</b>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /> <br/><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /> 
 </p>
 
 </td>
