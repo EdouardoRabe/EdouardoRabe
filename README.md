@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Passionné%20de%20Programmation%20et%20d'Algorithmes&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,14,13&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Passionné%20de%20Programmation%20et%20d'Algorithmes&descAlignY=51&descAlign=50)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+!+👋;Développeur+Full+Stack+💻;Passionné+de+Code+%26+Algo+🚀;Toujours+en+apprentissage+📚" alt="Typing SVG" />
 
@@ -11,7 +12,6 @@
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **À Propos de Moi**
-
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
