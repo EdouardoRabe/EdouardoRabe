@@ -1,11 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,17&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Passionné%20de%20Programmation%20et%20d'Algorithmes&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Passionné%20de%20Programmation%20et%20d'Algorithmes&descAlignY=51&descAlign=50)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF7F50&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+!+👋;Développeur+Full+Stack+💻;Passionné+de+Code+%26+Algo+🚀;Toujours+en+apprentissage+📚" alt="Typing SVG" />
-
-<img src="https://i.imgur.com/4NJlL9D.gif" width="700">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+!+👋;Développeur+Full+Stack+💻;Passionné+de+Code+%26+Algo+🚀;Toujours+en+apprentissage+📚" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
