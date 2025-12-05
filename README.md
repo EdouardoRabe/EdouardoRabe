@@ -16,7 +16,7 @@
 
 ```typescript
 const developpeur = {
-    nom: "Votre Nom",
+    nom: "RABENDRAZANA Ismaïl Edouardo",
     statut: "Développeur Full Stack",
     localisation: "Madagascar 🇲🇬",
     passions: ["Programmation", "Algorithmes", "Innovation"],
@@ -94,7 +94,8 @@ const developpeur = {
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <b>React</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> <b>Vue.js</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ionic" height="40" alt="Ionic" /> <b>Ionic</b>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" height="40" alt="Ionic" />
+
 </p>
 
 </td>
@@ -149,22 +150,11 @@ const developpeur = {
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=EdouardoRabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdouardoRabe&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=70a5fd" width="100%" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdouardoRabe&custom_title=Graphique%20d'Activité%20GitHub&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa00&area_color=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardoRabe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="48%" alt="Top Languages"/>
 
 </div>
 
