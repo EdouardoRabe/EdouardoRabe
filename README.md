@@ -152,19 +152,19 @@ const developpeur = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EdouardoRabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=70a5fd" width="100%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdouardoRabe&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=70a5fd" width="100%" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&custom_title=Graphique%20d'Activité%20GitHub&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa00&area_color=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdouardoRabe&custom_title=Graphique%20d'Activité%20GitHub&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa00&area_color=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardoRabe&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -205,33 +205,7 @@ Git Flow
 </tr>
 </table>
 
-</div>
 
----
-
-## 🚀 **Projets Récents**
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🎯 Projet 1 - Application Web Full Stack                      │
-│  📦 Tech: Spring Boot · React · PostgreSQL                     │
-│  🔗 github.com/votre-username/projet1                          │
-│                                                                 │
-│  🎯 Projet 2 - Plateforme de Gestion                           │
-│  📦 Tech: Django · Vue.js · MongoDB                            │
-│  🔗 github.com/votre-username/projet2                          │
-│                                                                 │
-│  🎯 Projet 3 - API Microservices                               │
-│  📦 Tech: Spring Boot · Docker · MySQL                         │
-│  🔗 github.com/votre-username/projet3                          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -244,17 +218,12 @@ Git Flow
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" /><br/>
 <b>Email</b><br/>
-<a href="mailto:votre.email@example.com">votre.email@example.com</a>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" /><br/>
-<b>LinkedIn</b><br/>
-<a href="https://linkedin.com/in/votre-profil">linkedin.com/in/votre-profil</a>
+<a href="mailto:edouardorabendrazana@gmail.com">edouardorabendrazana@gmail.com</a>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" /><br/>
 <b>GitHub</b><br/>
-<a href="https://github.com/votre-username">github.com/votre-username</a>
+<a href="https://github.com/EdouardoRabe">github.com/EdouardoRabe</a>
 </td>
 </tr>
 </table>
@@ -271,8 +240,8 @@ Git Flow
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=votre-username&label=👁️%20Visiteurs&color=6366F1&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/votre-username?label=👥%20Followers&style=for-the-badge&color=bf91f3)
+![Profile Views](https://komarev.com/ghpvc/?username=EdouardoRabe&label=👁️%20Visiteurs&color=6366F1&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/EdouardoRabe?label=👥%20Followers&style=for-the-badge&color=bf91f3)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
