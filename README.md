@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Étudiant%20L3%20Informatique%20|%20Passionné%20d'Algorithmes&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Développeur%20Full%20Stack&fontSize=50&animation=twinkling&fontAlignY=35&desc=Passionné%20de%20Programmation%20et%20d'Algorithmes&descAlignY=51&descAlign=50)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+!+👋;Étudiant+en+L3+Informatique+🎓;Passionné+de+Code+%26+Algo+💻;Toujours+en+apprentissage+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+!+👋;Développeur+Full+Stack+💻;Passionné+de+Code+%26+Algo+🚀;Toujours+en+apprentissage+📚" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -17,7 +17,7 @@
 ```typescript
 const developpeur = {
     nom: "Votre Nom",
-    statut: "Étudiant L3 Informatique",
+    statut: "Développeur Full Stack",
     localisation: "Madagascar 🇲🇬",
     passions: ["Programmation", "Algorithmes", "Innovation"],
     apprentissage_actuel: ["Architecture Logicielle", "IA/ML"],
@@ -48,10 +48,10 @@ const developpeur = {
 
 #### Backend & Systèmes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /> <b>Java</b><br/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> <b>Python</b><br/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /> <b>C</b><br/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /> <b>C++</b><br/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /> <b>Java</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> <b>Python</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /> <b>C</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /> <b>C++</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /> <b>C#</b>
 </p>
 
@@ -60,9 +60,9 @@ const developpeur = {
 
 #### Web & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /> <b>JavaScript</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <b>Node.js</b><br/>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /> <b>PHP</b><br/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" /> <b>JavaScript</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <b>Node.js</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /> <b>PHP</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Basic" /> <b>Visual Basic</b>
 </p>
 
@@ -80,10 +80,10 @@ const developpeur = {
 
 #### Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /> <b>Spring Boot</b><br/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring MVC" /> <b>Spring MVC</b><br/>
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> <b>Django</b><br/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> <b>Laravel</b><br/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /> <b>Spring Boot</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring MVC" /> <b>Spring MVC</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> <b>Django</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> <b>Laravel</b><br/><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="Flight PHP" /> <b>Flight PHP</b>
 </p>
 
@@ -92,9 +92,9 @@ const developpeur = {
 
 #### Frontend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <b>React</b><br/>
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> <b>Vue.js</b><br/>
-  <img src="https://raw.githubusercontent.com/ionic-team/ionic-framework/main/.github/logo.png" height="40" alt="Ionic" /> <b>Ionic</b>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> <b>React</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /> <b>Vue.js</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ionic" height="40" alt="Ionic" /> <b>Ionic</b>
 </p>
 
 </td>
@@ -102,9 +102,9 @@ const developpeur = {
 
 #### Bases de Données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /> <b>PostgreSQL</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /> <b>MySQL</b><br/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /> <b>SQLite</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /> <b>PostgreSQL</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /> <b>MySQL</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /> <b>SQLite</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /> <b>MongoDB</b>
 </p>
 
@@ -122,7 +122,7 @@ const developpeur = {
 
 #### IDEs & Éditeurs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" /> <b>Visual Studio Code</b><br/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" /> <b>Visual Studio Code</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" /> <b>IntelliJ IDEA</b>
 </p>
 
@@ -131,9 +131,9 @@ const developpeur = {
 
 #### DevOps & Collaboration
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <b>Git</b><br/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> <b>GitHub</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /> <b>Docker</b><br/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <b>Git</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> <b>GitHub</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /> <b>Docker</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" /> <b>Postman</b>
 </p>
 
