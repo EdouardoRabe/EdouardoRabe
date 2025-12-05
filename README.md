@@ -82,7 +82,7 @@ const developpeur = {
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring MVC" /> <br/><br/>
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /> <br/><br/>
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /> <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="Flight PHP" /> <b>Flight PHP</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="Flight PHP" /> 
 </p>
 
 </td>
