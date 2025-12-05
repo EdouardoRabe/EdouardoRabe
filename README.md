@@ -186,7 +186,6 @@ Optimisation
 </td>
 <td width="25%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><br/>
-<b>DevOps</b><br/>
 Docker · CI/CD<br/>
 Git Flow
 </td>
