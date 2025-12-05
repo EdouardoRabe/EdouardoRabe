@@ -18,10 +18,8 @@
 const developpeur = {
     nom: "RABENDRAZANA Ismaïl Edouardo",
     statut: "Développeur Full Stack",
-    localisation: "Madagascar 🇲🇬",
+    localisation: "Antananarivo Madagascar",
     passions: ["Programmation", "Algorithmes", "Innovation"],
-    apprentissage_actuel: ["Architecture Logicielle", "IA/ML"],
-    objectif_2025: "Contribuer à des projets Open Source",
     
     code: function() {
         while(true) {
