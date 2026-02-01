@@ -84,37 +84,6 @@ OUTILS          Git · Docker · Postman · VS Code · IntelliJ IDEA
 
 <br/>
 
-## ▸ Statistiques
-
-<table>
-<tr>
-<td>
-
-```
-ACTIVITÉ RÉCENTE
-────────────────────────────
-→ Commits réguliers
-→ Projets en cours : Spring, Vue.js
-→ Focus actuel : Architecture & APIs
-```
-
-</td>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdouardoRabe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardoRabe&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)
-
-</p>
-
-<br/>
-
 ---
 
 <br/>
