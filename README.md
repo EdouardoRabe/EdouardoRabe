@@ -1,17 +1,23 @@
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│    ███████╗██████╗  ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗        │
-│    ██╔════╝██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗       │
-│    █████╗  ██║  ██║██║   ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║       │
-│    ██╔══╝  ██║  ██║██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║       │
-│    ███████╗██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝       │
-│    ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝        │
-│                                                                              │
-│    RABENDRAZANA Ismaïl Edouardo                                              │
-│    Software Engineer · Antananarivo, Madagascar                              │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ▓█████ ▓█████▄  ▒█████   █    ██  ▄▄▄       ██▀███  ▓█████▄  ▒█████        ║
+║   ▓█   ▀ ▒██▀ ██▌▒██▒  ██▒ ██  ▓██▒▒████▄    ▓██ ▒ ██▒▒██▀ ██▌▒██▒  ██▒      ║
+║   ▒███   ░██   █▌▒██░  ██▒▓██  ▒██░▒██  ▀█▄  ▓██ ░▄█ ▒░██   █▌▒██░  ██▒      ║
+║   ▒▓█  ▄ ░▓█▄   ▌▒██   ██░▓▓█  ░██░░██▄▄▄▄██ ▒██▀▀█▄  ░▓█▄   ▌▒██   ██░      ║
+║   ░▒████▒░▒████▓ ░ ████▓▒░▒▒█████▓  ▓█   ▓██▒░██▓ ▒██▒░▒████▓ ░ ████▓▒░      ║
+║   ░░ ▒░ ░ ▒▒▓  ▒ ░ ▒░▒░▒░ ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒▓  ▒ ░ ▒░▒░▒░       ║
+║                                                                              ║
+║   ██▀███   ▄▄▄       ▄▄▄▄   ▓█████                                           ║
+║  ▓██ ▒ ██▒▒████▄    ▓█████▄ ▓█   ▀                                           ║
+║  ▓██ ░▄█ ▒▒██  ▀█▄  ▒██▒ ▄██▒███                                             ║
+║  ▒██▀▀█▄  ░██▄▄▄▄██ ▒██░█▀  ▒▓█  ▄                                           ║
+║  ░██▓ ▒██▒ ▓█   ▓██▒░▓█  ▀█▓░▒████▒                                          ║
+║                                                                              ║
+║   RABENDRAZANA Ismaïl Edouardo                                               ║
+║   Software Engineer · Antananarivo, Madagascar                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -35,8 +41,8 @@ Mon approche : **comprendre avant de coder**.
 ## ▸ Compétences
 
 ```
-LANGAGES        Java · Python · C/C++ · C# · JavaScript · PHP
-                ════════════════════════════════════════════════
+LANGAGES        Java · Python · C/C++ · C# · JavaScript · PHP · Visual Basic
+                ══════════════════════════════════════════════════════════════════
 
 BACKEND         Spring Boot · Django · Laravel · Node.js · Flight PHP
                 ════════════════════════════════════════════════════════
@@ -44,8 +50,14 @@ BACKEND         Spring Boot · Django · Laravel · Node.js · Flight PHP
 FRONTEND        React · Vue.js · Ionic
                 ═══════════════════════════
 
-DATA            PostgreSQL · MySQL · SQLite · MongoDB
-                ══════════════════════════════════════════
+DATA            PostgreSQL · MySQL · SQLite · MongoDB · Firebase
+                ═══════════════════════════════════════════════════════
+
+MODÉLISATION    dbSchema · Looping
+                ════════════════════════
+
+DESIGN          Figma · Photoshop · Illustrator · InDesign · Premiere Pro
+                ═══════════════════════════════════════════════════════════════
 
 OUTILS          Git · Docker · Postman · VS Code · IntelliJ IDEA
                 ════════════════════════════════════════════════════
@@ -87,18 +99,24 @@ OUTILS          Git · Docker · Postman · VS Code · IntelliJ IDEA
 ACTIVITÉ RÉCENTE
 ────────────────────────────
 → Commits réguliers
-→ Projets en cours : Spring, React
+→ Projets en cours : Spring, Vue.js
 → Focus actuel : Architecture & APIs
 ```
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EdouardoRabe&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&icon_color=888888&hide_title=true&hide_rank=true" alt="stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdouardoRabe&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)](https://github.com/EdouardoRabe)
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardoRabe&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8)](https://github.com/EdouardoRabe)
+
+</p>
 
 <br/>
 
@@ -111,7 +129,7 @@ ACTIVITÉ RÉCENTE
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │             │    │             │    │             │    │             │
-│   Spring    │───▶│    React    │───▶│  PostgreSQL │───▶│   Docker    │
+│   Spring    │───▶│   Vue.js    │───▶│  PostgreSQL │───▶│   Docker    │
 │    Boot     │    │             │    │             │    │             │
 │             │    │             │    │             │    │             │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
