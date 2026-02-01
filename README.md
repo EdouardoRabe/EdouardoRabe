@@ -84,10 +84,6 @@ OUTILS          Git · Docker · Postman · VS Code · IntelliJ IDEA
 
 <br/>
 
----
-
-<br/>
-
 ## ▸ Stack préférée du moment
 
 ```
