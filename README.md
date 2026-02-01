@@ -1,23 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   > EdouardoRabe_                                                             ║
-║   > Software Engineer · Antananarivo, Madagascar                              ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-**`RABENDRAZANA Ismaïl Edouardo`**
+<img src="./matrix.svg" width="100%" alt="EdouardoRabe - Matrix Animation">
 
 </div>
-
-<br/>
-
-> *Je ne construis pas simplement des applications. Je résous des problèmes, un commit à la fois.*
 
 <br/>
 
